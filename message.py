@@ -1,0 +1,2 @@
+message = "python"
+print(message)
